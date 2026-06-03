@@ -1,6 +1,8 @@
 # Turkish Election 2023 Dataset
 
-This file contains two manually annotated Turkish sentiment datasets collected from Twitter/X during the 2023 Turkish presidential election period. For detailed information about the dataset content, please refer to the corresponding paper.
+This file contains two manually annotated Turkish sentiment datasets collected from Twitter/X during the 2023 Turkish presidential election period. 
+
+This dataset was created for the study presented in our paper. For detailed information about the dataset content, please refer to the corresponding paper.
 
 ## Citation
 
