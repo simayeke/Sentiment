@@ -4,7 +4,7 @@ This repository contains two manually annotated Turkish sentiment datasets colle
 
 This dataset was created for the study presented in our paper. For detailed information about the dataset content, please refer to the corresponding paper.
 
-*Note:* The dataset version provided in this repository has been modified by removing emojis and hashtags from the texts.
+*Note:* The dataset provided in this repository is a modified version with emojis and hashtags removed from the texts.
 
 ## Citation
 
