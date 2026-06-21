@@ -4,6 +4,8 @@ This repository contains two manually annotated Turkish sentiment datasets colle
 
 This dataset was created for the study presented in our paper. For detailed information about the dataset content, please refer to the corresponding paper.
 
+*Note:* The dataset version provided in this repository has been modified by removing emojis and hashtags from the texts.
+
 ## Citation
 
 If you use the Turkish Election 2023 Dataset in your research, please cite the following paper:
